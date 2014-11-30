@@ -1,14 +1,15 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Hussain Fakhruddin
+description: Blogging about tech stuff
+meta_description: "Blogging about technology stuff"
 
 markdown: redcarpet
 highlighter: pygments
 logo: false
-paginate: 15
+paginate: 10
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://hussain.io'
+permalink: '/:year/:month/:title'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://hussain.io'
+author:         'Hussain Fakhruddin'
