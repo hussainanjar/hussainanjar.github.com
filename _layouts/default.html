@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }} - {{ site.description }}{% endif %}</title>
+    <title>{% if page.title =="Home"%}{{ site.name }} &middot; {{ site.description }}{% else %}{{ page.title }} &middot; {{ site.name }}{% endif %}</title>
     {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
     <meta name="keywords" content="{{ page.categories | join: ', ' }}">
     <meta name="HandheldFriendly" content="True" />
