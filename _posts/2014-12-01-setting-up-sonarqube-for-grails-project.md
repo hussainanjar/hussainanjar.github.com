@@ -115,3 +115,5 @@ Now analyze your project by running following command from the root of your Grai
 `/opt/sonar-runner-2.4/bin/sonar-runner`
 
 If everything went well you should be able to see data related to your project in SonarQube at `http://localhost:9000/`
+
+![Sonar Screen Shot](/assets/images/posts/sonar-sc.png)
