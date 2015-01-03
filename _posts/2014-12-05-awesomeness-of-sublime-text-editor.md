@@ -11,7 +11,7 @@ If you are in a hurry and would like to quickly know some benefits of Sublime Te
 
 ## Shortcut keys
 
-In the shortcut keys I'll be mentioning `super` which is `cmd` key if you are using **Mac** and `ctrl` key if you are using **Window**.
+In shortcut keys I'll be using `super` which is `cmd` key if you are using **Mac** and `ctrl` key if you are using **Window**.
 
 * `super + p` - Open any file using fuzzy search
 * `super + shift + p` - Access to complete Sublime menu using fuzzy search
