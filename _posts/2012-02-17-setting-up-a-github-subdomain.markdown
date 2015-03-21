@@ -20,4 +20,4 @@ git commit -m "Added index page"
 git push -u origin master
 ```
 
-When you push changes for the first time it take around 10 mins for your change to be live on Github http://yourusername.github.io
+When you push changes for the first time it will take around 10 mins for your changes to be live on Github http://yourusername.github.io
