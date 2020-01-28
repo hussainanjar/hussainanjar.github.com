@@ -6,10 +6,10 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 10
-baseurl: /
+baseurl: https://hussain.io/
 domain_name: 'https://hussain.io'
 permalink: '/:year/:month/:title'
 
 # Details for the RSS feed generator
-url:            'http://hussain.io'
+url:            'https://hussain.io'
 author:         'Hussain Fakhruddin'
